@@ -30,6 +30,7 @@ body {
 /* HEAD */
 
 .links {
+  font-style: normal;
   text-decoration: none;
   color: var(--dark-grey, black);
 }
